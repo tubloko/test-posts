@@ -1,0 +1,8 @@
+/.git
+/.vscode
+node_modules
+serviceWorker.js
+analyze.js
+plopFile.js
+src/router
+*.test.js
